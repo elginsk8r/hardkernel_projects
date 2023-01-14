@@ -9,5 +9,6 @@
            sync-j="4" />
 
   <project path="projects" name="elginsk8r/hardkernel_projects" remote="github" />
+  <project path="bootloader/u-boot" name="elginsk8r/u-boot" remote="github" revision="odroidg12-v2015.01" />
 
 </manifest>
